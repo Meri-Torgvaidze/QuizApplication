@@ -1,0 +1,86 @@
+[
+  {
+    "Id": 1,
+    "Username": "User1",
+    "Password": "user1",
+    "Score": 20
+  },
+  {
+    "Id": 2,
+    "Username": "User2",
+    "Password": "user2",
+    "Score": 60
+  },
+  {
+    "Id": 3,
+    "Username": "User3",
+    "Password": "user3",
+    "Score": 0
+  },
+  {
+    "Id": 4,
+    "Username": "User4",
+    "Password": "user4",
+    "Score": 60
+  },
+  {
+    "Id": 5,
+    "Username": "User5",
+    "Password": "user5",
+    "Score": 0
+  },
+  {
+    "Id": 6,
+    "Username": "User6",
+    "Password": "user6",
+    "Score": 0
+  },
+  {
+    "Id": 7,
+    "Username": "User7",
+    "Password": "user7",
+    "Score": 100
+  },
+  {
+    "Id": 8,
+    "Username": "User8",
+    "Password": "user8",
+    "Score": 100
+  },
+  {
+    "Id": 9,
+    "Username": "User9",
+    "Password": "user9",
+    "Score": 0
+  },
+  {
+    "Id": 10,
+    "Username": "User10",
+    "Password": "user10",
+    "Score": 0
+  },
+  {
+    "Id": 11,
+    "Username": "User11",
+    "Password": "user11",
+    "Score": 0
+  },
+  {
+    "Id": 12,
+    "Username": "User12",
+    "Password": "user12",
+    "Score": 0
+  },
+  {
+    "Id": 13,
+    "Username": "User13",
+    "Password": "user13",
+    "Score": 0
+  },
+  {
+    "Id": 14,
+    "Username": "User14",
+    "Password": "user14",
+    "Score": 0
+  }
+]
